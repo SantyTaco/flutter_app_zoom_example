@@ -1,0 +1,4 @@
+#Wed Feb 20 16:22:24 ECT 2019
+base.0=/Users/santiagot/Projects/Gospace/FlutterTest/flutter_app_zoom_example/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
